@@ -17,4 +17,4 @@ var  insertionSort = function(target_array){
 
 
 // test
-console.log(insertionSort([32,45,37]));
+console.log(insertionSort([32,45,37,34,36,26]));
