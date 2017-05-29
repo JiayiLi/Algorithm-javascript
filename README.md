@@ -54,7 +54,7 @@ partition的时间复杂度: O（n）一共需要logn次partition
 
 ### 查找
 
-1. 顺序查找
+1. 顺序查找 (Sequential Search）
 	- 时间复杂度：O(n)
 	- 优点：算法简单，对查找表的记录没有任何要求
 	- 缺点：效率低下

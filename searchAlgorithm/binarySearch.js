@@ -29,4 +29,4 @@ var binarySearch = function(target_array,target){
 }
 
 //test
-console.log(binary_search([1,2,3,4,5,6,7,8],6));
+console.log(binarySearch([1,2,3,4,5,6,7,8],6));
